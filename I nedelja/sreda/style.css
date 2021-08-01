@@ -1,0 +1,30 @@
+nav{
+    display: block;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+span{
+    color: red;
+}
+.forma{
+    border: solid 1px;
+    
+}
+.boja{
+    color: red;
+}
+.slika{
+    width: 500px;
+   }
+.flex{
+    display: flex;
+}
+.main{
+   margin-left: 2%;
+}
+.main img{
+   position: relative;
+   width: 100%;
+}
