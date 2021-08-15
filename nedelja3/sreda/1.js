@@ -37,17 +37,6 @@
 }
 
 console.log('---------');
-//4.
-{
-    let x = 10
-    let y = 5
-    x = x + y
-    y = x - y
-    x = x - y
-    console.log(`x=${x},y=${y}`);
-}
-
-console.log('----------');
 //3.
 {
     let N = 100
@@ -68,4 +57,14 @@ console.log('----------');
     }
 }
 
+console.log('-----------');
+//4.
+{
+    let x = 10
+    let y = 5
+    x = x + y
+    y = x - y
+    x = x - y
+    console.log(`x=${x},y=${y}`);
+}
 
